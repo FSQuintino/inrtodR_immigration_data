@@ -12,10 +12,9 @@ Esse material é parte do minicurso de 8h oferecido como atividade da Semana Uni
 
 📄 [Aulas](./2-aulas)
 
-📄 [Notebook](./1-dados)
-
 📄 [Listas](./3-listas)
 
+📄 [Notebook](./minicurso_aulas.pdf)
 
 ## Equipe do minicurso
 
