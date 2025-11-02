@@ -14,6 +14,8 @@ Esse material é parte do minicurso de 8h oferecido como atividade da Semana Uni
 
 📄 [Notebook](./1-dados)
 
+📄 [Listas](./3-listas)
+
 
 ## Equipe do minicurso
 
