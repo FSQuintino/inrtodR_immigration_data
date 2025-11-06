@@ -28,4 +28,8 @@ Os microdados estão disponíveis no site <https://portaldeimigracao.mj.gov.br/p
 
 ## Algumas referências interessantes para a Aula 2
 
-- <https://coolors.co/palettes/trending>
+- <https://coolors.co/palettes/trending> (acesso em 03-11-2025)
+- <https://github.com/rstudio/cheatsheets/blob/main/data-visualization.pdf> (acesso em 03-11-2025)
+- <https://cran.r-project.org/web/packages/geobr/vignettes/intro_to_geobr.html> (acesso em 03-11-2025)
+- <https://r-graph-gallery.com/> (acesso em 03-11-2025)
+- <https://ggplot2.tidyverse.org/index.html> (acesso em 03-11-2025)
