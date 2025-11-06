@@ -14,7 +14,7 @@ Fique à vontade para consultar, baixar e revisar os materiais.
 
 📄 [Teoria](./estatística_descritiva.pdf)
 
-📄 [Listas](./4-fotos)
+📄 [Fotos](./4-fotos)
 
 
 ## Equipe do minicurso
